@@ -1,0 +1,634 @@
+﻿Code,Borough,Names,obesity rate % (age 4-5),obesity rate % (age 10-11)
+E05009288,City of London,Aldersgate,s,s
+E05009297,City of London,Castle Baynard,s,s
+E05009302,City of London,Cripplegate,s,s
+E05009308,City of London,Portsoken,s,s
+E05000026,Barking and Dagenham,Abbey,13.3%,24.7%
+E05000027,Barking and Dagenham,Alibon,10.0%,26.0%
+E05000028,Barking and Dagenham,Becontree,12.3%,29.3%
+E05000029,Barking and Dagenham,Chadwell Heath,12.8%,24.6%
+E05000030,Barking and Dagenham,Eastbrook,12.6%,21.6%
+E05000031,Barking and Dagenham,Eastbury,11.5%,26.5%
+E05000032,Barking and Dagenham,Gascoigne,16.2%,29.0%
+E05000033,Barking and Dagenham,Goresbrook,16.2%,25.2%
+E05000034,Barking and Dagenham,Heath,15.0%,26.0%
+E05000035,Barking and Dagenham,Longbridge,11.4%,24.9%
+E05000036,Barking and Dagenham,Mayesbrook,12.6%,24.3%
+E05000037,Barking and Dagenham,Parsloes,14.8%,26.5%
+E05000038,Barking and Dagenham,River,17.2%,30.2%
+E05000039,Barking and Dagenham,Thames,15.6%,27.0%
+E05000040,Barking and Dagenham,Valence,12.2%,24.6%
+E05000041,Barking and Dagenham,Village,12.9%,27.9%
+E05000042,Barking and Dagenham,Whalebone,12.8%,22.8%
+E05000043,Barnet,Brunswick Park,10.8%,16.5%
+E05000044,Barnet,Burnt Oak,11.9%,25.3%
+E05000045,Barnet,Childs Hill,12.2%,16.9%
+E05000046,Barnet,Colindale,12.6%,26.0%
+E05000047,Barnet,Coppetts,10.0%,19.5%
+E05000048,Barnet,East Barnet,11.3%,22.2%
+E05000049,Barnet,East Finchley,7.9%,17.3%
+E05000050,Barnet,Edgware,10.9%,17.1%
+E05000051,Barnet,Finchley Church End,6.6%,11.6%
+E05000052,Barnet,Garden Suburb,6.3%,12.5%
+E05000053,Barnet,Golders Green,8.7%,16.4%
+E05000054,Barnet,Hale,11.2%,20.6%
+E05000055,Barnet,Hendon,7.4%,19.1%
+E05000056,Barnet,High Barnet,4.5%,16.1%
+E05000057,Barnet,Mill Hill,11.3%,18.2%
+E05000058,Barnet,Oakleigh,7.8%,16.9%
+E05000059,Barnet,Totteridge,9.0%,17.9%
+E05000060,Barnet,Underhill,7.9%,19.5%
+E05000061,Barnet,West Finchley,8.5%,14.5%
+E05000062,Barnet,West Hendon,9.8%,16.5%
+E05000063,Barnet,Woodhouse,9.1%,20.8%
+E05000064,Bexley,Barnehurst,9.1%,24.8%
+E05000065,Bexley,Belvedere,11.8%,28.4%
+E05000066,Bexley,Blackfen and Lamorbey,8.5%,20.0%
+E05000067,Bexley,Blendon and Penhill,9.7%,15.8%
+E05000068,Bexley,Brampton,6.1%,23.7%
+E05000069,Bexley,Christchurch,11.8%,14.2%
+E05000070,Bexley,Colyers,11.1%,26.6%
+E05000071,Bexley,Crayford,10.1%,19.6%
+E05000072,Bexley,Cray Meadows,14.0%,25.4%
+E05000073,Bexley,Danson Park,11.5%,22.9%
+E05000074,Bexley,East Wickham,10.9%,23.0%
+E05000075,Bexley,Erith,13.4%,29.9%
+E05000076,Bexley,Falconwood and Welling,10.4%,24.9%
+E05000077,Bexley,Lesnes Abbey,13.3%,22.4%
+E05000078,Bexley,Longlands,8.2%,17.4%
+E05000079,Bexley,North End,15.2%,22.8%
+E05000080,Bexley,Northumberland Heath,11.0%,22.5%
+E05000081,Bexley,St Mary's,8.7%,14.4%
+E05000082,Bexley,St Michael's,9.1%,22.0%
+E05000083,Bexley,Sidcup,10.4%,18.4%
+E05000084,Bexley,Thamesmead East,17.1%,28.0%
+E05000085,Brent,Alperton,8.3%,18.8%
+E05000086,Brent,Barnhill,10.8%,25.1%
+E05000087,Brent,Brondesbury Park,8.3%,22.9%
+E05000088,Brent,Dollis Hill,13.2%,21.9%
+E05000089,Brent,Dudden Hill,15.6%,26.7%
+E05000090,Brent,Fryent,10.5%,21.2%
+E05000091,Brent,Harlesden,15.8%,29.3%
+E05000092,Brent,Kensal Green,11.6%,27.1%
+E05000093,Brent,Kenton,5.8%,21.6%
+E05000094,Brent,Kilburn,11.9%,25.8%
+E05000095,Brent,Mapesbury,13.7%,21.6%
+E05000096,Brent,Northwick Park,11.5%,20.9%
+E05000097,Brent,Preston,13.0%,23.8%
+E05000098,Brent,Queens Park,9.9%,17.4%
+E05000099,Brent,Queensbury,10.7%,21.5%
+E05000100,Brent,Stonebridge,17.0%,26.5%
+E05000101,Brent,Sudbury,10.6%,25.9%
+E05000102,Brent,Tokyngton,13.1%,27.2%
+E05000103,Brent,Welsh Harp,11.2%,26.6%
+E05000104,Brent,Wembley Central,9.2%,20.4%
+E05000105,Brent,Willesden Green,15.0%,26.7%
+E05000106,Bromley,Bickley,7.3%,12.5%
+E05000107,Bromley,Biggin Hill,8.0%,14.1%
+E05000108,Bromley,Bromley Common and Keston,10.5%,17.8%
+E05000109,Bromley,Bromley Town,5.8%,13.3%
+E05000110,Bromley,Chelsfield and Pratts Bottom,4.2%,11.3%
+E05000111,Bromley,Chislehurst,6.0%,15.5%
+E05000112,Bromley,Clock House,7.1%,16.5%
+E05000113,Bromley,Copers Cope,7.8%,13.3%
+E05000114,Bromley,Cray Valley East,9.1%,22.2%
+E05000115,Bromley,Cray Valley West,8.4%,18.3%
+E05000116,Bromley,Crystal Palace,9.6%,23.8%
+E05000117,Bromley,Darwin,11.4%,15.4%
+E05000118,Bromley,Farnborough and Crofton,4.4%,15.1%
+E05000119,Bromley,Hayes and Coney Hall,7.4%,12.0%
+E05000120,Bromley,Kelsey and Eden Park,7.1%,15.2%
+E05000121,Bromley,Mottingham and Chislehurst North,11.1%,22.7%
+E05000122,Bromley,Orpington,9.2%,19.5%
+E05000123,Bromley,Penge and Cator,10.4%,25.2%
+E05000124,Bromley,Petts Wood and Knoll,6.1%,9.5%
+E05000125,Bromley,Plaistow and Sundridge,9.2%,14.9%
+E05000126,Bromley,Shortlands,3.9%,11.7%
+E05000127,Bromley,West Wickham,6.8%,12.0%
+E05000128,Camden,Belsize,10.9%,18.7%
+E05000129,Camden,Bloomsbury,12.0%,28.3%
+E05000130,Camden,Camden Town with Primrose Hill,11.6%,16.6%
+E05000131,Camden,Cantelowes,9.0%,20.3%
+E05000132,Camden,Fortune Green,3.5%,20.6%
+E05000133,Camden,Frognal and Fitzjohns,s,s
+E05000134,Camden,Gospel Oak,10.7%,23.4%
+E05000135,Camden,Hampstead Town,s,s
+E05000136,Camden,Haverstock,12.0%,25.9%
+E05000137,Camden,Highgate,5.3%,13.5%
+E05000138,Camden,Holborn and Covent Garden,9.0%,25.5%
+E05000139,Camden,Kentish Town,6.5%,19.3%
+E05000140,Camden,Kilburn,13.4%,22.1%
+E05000141,Camden,King's Cross,10.9%,21.2%
+E05000142,Camden,Regent's Park,12.6%,26.1%
+E05000143,Camden,St Pancras and Somers Town,12.3%,24.5%
+E05000144,Camden,Swiss Cottage,13.8%,22.2%
+E05000145,Camden,West Hampstead,6.1%,16.0%
+E05000146,Croydon,Addiscombe,10.3%,21.6%
+E05000147,Croydon,Ashburton,11.5%,23.2%
+E05000148,Croydon,Bensham Manor,13.2%,24.4%
+E05000149,Croydon,Broad Green,11.5%,25.5%
+E05000150,Croydon,Coulsdon East,9.4%,17.4%
+E05000151,Croydon,Coulsdon West,9.6%,19.7%
+E05000152,Croydon,Croham,8.9%,19.1%
+E05000153,Croydon,Fairfield,10.2%,24.8%
+E05000154,Croydon,Fieldway,13.9%,24.6%
+E05000155,Croydon,Heathfield,10.6%,17.8%
+E05000156,Croydon,Kenley,4.5%,14.7%
+E05000157,Croydon,New Addington,11.3%,27.8%
+E05000158,Croydon,Norbury,11.2%,23.5%
+E05000159,Croydon,Purley,8.1%,16.9%
+E05000160,Croydon,Sanderstead,7.7%,12.5%
+E05000161,Croydon,Selhurst,14.6%,27.0%
+E05000162,Croydon,Selsdon and Ballards,8.8%,15.4%
+E05000163,Croydon,Shirley,9.1%,20.0%
+E05000164,Croydon,South Norwood,11.6%,23.4%
+E05000165,Croydon,Thornton Heath,13.8%,26.7%
+E05000166,Croydon,Upper Norwood,10.5%,23.7%
+E05000167,Croydon,Waddon,11.1%,19.9%
+E05000168,Croydon,West Thornton,12.6%,24.8%
+E05000169,Croydon,Woodside,11.6%,23.6%
+E05000170,Ealing,Acton Central,11.1%,19.4%
+E05000171,Ealing,Cleveland,10.0%,19.2%
+E05000172,Ealing,Dormers Wells,14.0%,23.4%
+E05000173,Ealing,Ealing Broadway,6.2%,15.1%
+E05000174,Ealing,Ealing Common,9.9%,21.0%
+E05000175,Ealing,East Acton,11.1%,26.1%
+E05000176,Ealing,Elthorne,11.0%,22.6%
+E05000177,Ealing,Greenford Broadway,13.7%,23.6%
+E05000178,Ealing,Greenford Green,9.1%,24.5%
+E05000179,Ealing,Hanger Hill,7.1%,18.4%
+E05000180,Ealing,Hobbayne,11.4%,18.6%
+E05000181,Ealing,Lady Margaret,12.9%,23.6%
+E05000182,Ealing,Northfield,5.3%,13.1%
+E05000183,Ealing,North Greenford,8.8%,24.8%
+E05000184,Ealing,Northolt Mandeville,12.1%,24.9%
+E05000185,Ealing,Northolt West End,14.1%,21.9%
+E05000186,Ealing,Norwood Green,12.3%,23.1%
+E05000187,Ealing,Perivale,11.6%,24.4%
+E05000188,Ealing,South Acton,11.6%,26.9%
+E05000189,Ealing,Southall Broadway,14.8%,23.3%
+E05000190,Ealing,Southall Green,14.3%,24.7%
+E05000191,Ealing,Southfield,7.4%,18.0%
+E05000192,Ealing,Walpole,7.8%,18.5%
+E05000193,Enfield,Bowes,9.3%,21.1%
+E05000194,Enfield,Bush Hill Park,10.8%,22.4%
+E05000195,Enfield,Chase,12.0%,24.4%
+E05000196,Enfield,Cockfosters,9.0%,20.6%
+E05000197,Enfield,Edmonton Green,17.6%,30.1%
+E05000198,Enfield,Enfield Highway,14.1%,27.0%
+E05000199,Enfield,Enfield Lock,16.3%,26.7%
+E05000200,Enfield,Grange,8.6%,11.7%
+E05000201,Enfield,Haselbury,14.5%,26.9%
+E05000202,Enfield,Highlands,8.9%,19.4%
+E05000203,Enfield,Jubilee,12.8%,24.3%
+E05000204,Enfield,Lower Edmonton,13.2%,27.6%
+E05000205,Enfield,Palmers Green,11.0%,22.5%
+E05000206,Enfield,Ponders End,16.7%,29.6%
+E05000207,Enfield,Southbury,12.0%,21.4%
+E05000208,Enfield,Southgate,9.5%,17.5%
+E05000209,Enfield,Southgate Green,9.7%,21.8%
+E05000210,Enfield,Town,10.8%,20.6%
+E05000211,Enfield,Turkey Street,13.4%,25.8%
+E05000212,Enfield,Upper Edmonton,14.7%,30.1%
+E05000213,Enfield,Winchmore Hill,6.6%,19.3%
+E05000214,Greenwich,Abbey Wood,16.6%,28.8%
+E05000215,Greenwich,Blackheath Westcombe,6.8%,21.9%
+E05000216,Greenwich,Charlton,12.8%,26.4%
+E05000217,Greenwich,Coldharbour and New Eltham,10.5%,21.9%
+E05000218,Greenwich,Eltham North,6.8%,16.1%
+E05000219,Greenwich,Eltham South,12.1%,24.3%
+E05000220,Greenwich,Eltham West,13.8%,24.4%
+E05000221,Greenwich,Glyndon,14.1%,24.7%
+E05000222,Greenwich,Greenwich West,11.1%,25.2%
+E05000223,Greenwich,Kidbrooke with Hornfair,11.0%,24.1%
+E05000224,Greenwich,Middle Park and Sutcliffe,11.5%,25.0%
+E05000225,Greenwich,Peninsula,7.0%,20.3%
+E05000226,Greenwich,Plumstead,14.1%,25.3%
+E05000227,Greenwich,Shooters Hill,12.8%,22.7%
+E05000228,Greenwich,Thamesmead Moorings,16.9%,28.9%
+E05000229,Greenwich,Woolwich Common,14.0%,26.6%
+E05000230,Greenwich,Woolwich Riverside,15.4%,24.1%
+E05009367,Hackney,Brownswood,11.0%,26.5%
+E05009368,Hackney,Cazenove,12.1%,24.5%
+E05009369,Hackney,Clissold,8.7%,16.7%
+E05009370,Hackney,Dalston,10.2%,23.2%
+E05009371,Hackney,De Beauvoir,12.7%,30.4%
+E05009372,Hackney,Hackney Central,14.4%,25.7%
+E05009373,Hackney,Hackney Downs,10.7%,25.7%
+E05009374,Hackney,Hackney Wick,15.8%,30.8%
+E05009375,Hackney,Haggerston,12.2%,28.3%
+E05009376,Hackney,Homerton,18.2%,23.6%
+E05009377,Hackney,Hoxton East & Shoreditch,16.2%,30.5%
+E05009378,Hackney,Hoxton West,14.6%,27.1%
+E05009379,Hackney,King's Park,14.6%,25.5%
+E05009380,Hackney,Lea Bridge,10.6%,22.1%
+E05009381,Hackney,London Fields,13.1%,20.0%
+E05009382,Hackney,Shacklewell,10.7%,32.7%
+E05009383,Hackney,Springfield,13.6%,23.7%
+E05009384,Hackney,Stamford Hill West,10.5%,27.6%
+E05009385,Hackney,Stoke Newington,10.7%,23.6%
+E05009386,Hackney,Victoria,14.6%,28.9%
+E05009387,Hackney,Woodberry Down,22.1%,32.4%
+E05000250,Hammersmith and Fulham,Addison,6.4%,23.8%
+E05000251,Hammersmith and Fulham,Askew,9.5%,21.6%
+E05000252,Hammersmith and Fulham,Avonmore and Brook Green,11.1%,25.3%
+E05000253,Hammersmith and Fulham,College Park and Old Oak,12.8%,21.8%
+E05000254,Hammersmith and Fulham,Fulham Broadway,8.3%,20.0%
+E05000255,Hammersmith and Fulham,Fulham Reach,12.1%,21.1%
+E05000256,Hammersmith and Fulham,Hammersmith Broadway,8.7%,23.0%
+E05000257,Hammersmith and Fulham,Munster,10.3%,19.5%
+E05000258,Hammersmith and Fulham,North End,8.0%,26.0%
+E05000259,Hammersmith and Fulham,Palace Riverside,9.1%,12.7%
+E05000260,Hammersmith and Fulham,Parsons Green and Walham,9.1%,23.4%
+E05000261,Hammersmith and Fulham,Ravenscourt Park,7.7%,13.1%
+E05000262,Hammersmith and Fulham,Sands End,14.5%,27.5%
+E05000263,Hammersmith and Fulham,Shepherd's Bush Green,10.7%,28.1%
+E05000264,Hammersmith and Fulham,Town,12.5%,24.3%
+E05000265,Hammersmith and Fulham,Wormholt and White City,10.5%,28.2%
+E05000266,Haringey,Alexandra,4.5%,9.9%
+E05000267,Haringey,Bounds Green,10.6%,22.8%
+E05000268,Haringey,Bruce Grove,14.8%,26.4%
+E05000269,Haringey,Crouch End,2.4%,11.6%
+E05000270,Haringey,Fortis Green,4.6%,9.2%
+E05000271,Haringey,Harringay,7.8%,25.9%
+E05000272,Haringey,Highgate,3.8%,14.9%
+E05000273,Haringey,Hornsey,8.2%,17.2%
+E05000274,Haringey,Muswell Hill,2.7%,10.2%
+E05000275,Haringey,Noel Park,14.2%,31.3%
+E05000276,Haringey,Northumberland Park,17.2%,30.5%
+E05000277,Haringey,St Ann's,11.1%,27.6%
+E05000278,Haringey,Seven Sisters,10.7%,28.6%
+E05000279,Haringey,Stroud Green,5.8%,18.1%
+E05000280,Haringey,Tottenham Green,13.9%,28.5%
+E05000281,Haringey,Tottenham Hale,16.5%,28.8%
+E05000282,Haringey,West Green,13.8%,26.6%
+E05000283,Haringey,White Hart Lane,16.2%,26.9%
+E05000284,Haringey,Woodside,12.0%,23.5%
+E05000285,Harrow,Belmont,7.1%,15.9%
+E05000286,Harrow,Canons,13.1%,20.0%
+E05000287,Harrow,Edgware,11.3%,20.6%
+E05000288,Harrow,Greenhill,10.9%,20.5%
+E05000289,Harrow,Harrow on the Hill,9.8%,23.0%
+E05000290,Harrow,Harrow Weald,12.7%,20.5%
+E05000291,Harrow,Hatch End,6.8%,22.3%
+E05000292,Harrow,Headstone North,4.8%,17.0%
+E05000293,Harrow,Headstone South,8.1%,20.1%
+E05000294,Harrow,Kenton East,11.6%,22.3%
+E05000295,Harrow,Kenton West,10.4%,21.8%
+E05000296,Harrow,Marlborough,10.9%,24.2%
+E05000297,Harrow,Pinner,10.4%,12.8%
+E05000298,Harrow,Pinner South,6.4%,15.2%
+E05000299,Harrow,Queensbury,10.5%,23.8%
+E05000300,Harrow,Rayners Lane,6.0%,17.9%
+E05000301,Harrow,Roxbourne,9.5%,22.7%
+E05000302,Harrow,Roxeth,9.7%,22.3%
+E05000303,Harrow,Stanmore Park,9.3%,15.9%
+E05000304,Harrow,Wealdstone,11.8%,23.3%
+E05000305,Harrow,West Harrow,7.3%,20.6%
+E05000306,Havering,Brooklands,8.0%,21.9%
+E05000307,Havering,Cranham,9.0%,19.0%
+E05000308,Havering,Elm Park,11.0%,23.4%
+E05000309,Havering,Emerson Park,10.5%,19.6%
+E05000310,Havering,Gooshays,14.3%,21.9%
+E05000311,Havering,Hacton,12.1%,16.7%
+E05000312,Havering,Harold Wood,7.7%,17.1%
+E05000313,Havering,Havering Park,9.7%,22.2%
+E05000314,Havering,Heaton,12.8%,24.8%
+E05000315,Havering,Hylands,3.9%,16.8%
+E05000316,Havering,Mawneys,10.6%,21.8%
+E05000317,Havering,Pettits,9.7%,11.6%
+E05000318,Havering,Rainham and Wennington,13.6%,24.0%
+E05000319,Havering,Romford Town,10.2%,21.0%
+E05000320,Havering,St Andrew's,11.5%,18.5%
+E05000321,Havering,South Hornchurch,11.3%,23.1%
+E05000322,Havering,Squirrel's Heath,10.4%,22.7%
+E05000323,Havering,Upminster,6.8%,13.5%
+E05000324,Hillingdon,Barnhill,11.5%,27.1%
+E05000325,Hillingdon,Botwell,9.8%,22.6%
+E05000326,Hillingdon,Brunel,10.3%,17.9%
+E05000327,Hillingdon,Cavendish,6.4%,16.7%
+E05000328,Hillingdon,Charville,11.3%,20.8%
+E05000329,Hillingdon,Eastcote and East Ruislip,5.9%,12.1%
+E05000330,Hillingdon,Harefield,10.0%,18.5%
+E05000331,Hillingdon,Heathrow Villages,12.8%,23.2%
+E05000332,Hillingdon,Hillingdon East,9.0%,19.6%
+E05000333,Hillingdon,Ickenham,7.0%,13.3%
+E05000334,Hillingdon,Manor,9.3%,14.9%
+E05000335,Hillingdon,Northwood,4.1%,13.9%
+E05000336,Hillingdon,Northwood Hills,8.3%,20.6%
+E05000337,Hillingdon,Pinkwell,9.8%,23.2%
+E05000338,Hillingdon,South Ruislip,9.3%,19.3%
+E05000339,Hillingdon,Townfield,10.9%,23.0%
+E05000340,Hillingdon,Uxbridge North,7.4%,14.6%
+E05000341,Hillingdon,Uxbridge South,12.3%,20.9%
+E05000342,Hillingdon,West Drayton,10.0%,22.7%
+E05000343,Hillingdon,West Ruislip,5.9%,12.7%
+E05000344,Hillingdon,Yeading,10.4%,23.7%
+E05000345,Hillingdon,Yiewsley,11.0%,24.5%
+E05000346,Hounslow,Bedfont,11.7%,28.3%
+E05000347,Hounslow,Brentford,12.6%,22.6%
+E05000348,Hounslow,Chiswick Homefields,6.7%,16.9%
+E05000349,Hounslow,Chiswick Riverside,6.6%,13.3%
+E05000350,Hounslow,Cranford,12.7%,26.6%
+E05000351,Hounslow,Feltham North,12.7%,25.9%
+E05000352,Hounslow,Feltham West,14.5%,24.2%
+E05000353,Hounslow,Hanworth,13.1%,27.1%
+E05000354,Hounslow,Hanworth Park,14.0%,25.7%
+E05000355,Hounslow,Heston Central,13.5%,29.4%
+E05000356,Hounslow,Heston East,10.5%,22.8%
+E05000357,Hounslow,Heston West,9.0%,24.6%
+E05000358,Hounslow,Hounslow Central,11.8%,22.2%
+E05000359,Hounslow,Hounslow Heath,10.8%,24.7%
+E05000360,Hounslow,Hounslow South,9.3%,16.6%
+E05000361,Hounslow,Hounslow West,10.7%,27.4%
+E05000362,Hounslow,Isleworth,10.7%,20.7%
+E05000363,Hounslow,Osterley and Spring Grove,8.4%,15.8%
+E05000364,Hounslow,Syon,9.7%,23.6%
+E05000365,Hounslow,Turnham Green,7.3%,15.7%
+E05000366,Islington,Barnsbury,9.9%,23.4%
+E05000367,Islington,Bunhill,12.4%,22.9%
+E05000368,Islington,Caledonian,13.0%,21.9%
+E05000369,Islington,Canonbury,9.1%,22.7%
+E05000370,Islington,Clerkenwell,12.9%,22.5%
+E05000371,Islington,Finsbury Park,11.8%,27.2%
+E05000372,Islington,Highbury East,6.3%,15.7%
+E05000373,Islington,Highbury West,11.4%,17.7%
+E05000374,Islington,Hillrise,7.7%,19.6%
+E05000375,Islington,Holloway,13.7%,28.8%
+E05000376,Islington,Junction,8.6%,15.8%
+E05000377,Islington,Mildmay,13.9%,24.4%
+E05000378,Islington,St George's,8.7%,22.2%
+E05000379,Islington,St Mary's,11.4%,21.8%
+E05000380,Islington,St Peter's,9.1%,22.9%
+E05000381,Islington,Tollington,9.1%,24.1%
+E05009388,Kensington and Chelsea,Abingdon,s,21.3%
+E05009389,Kensington and Chelsea,Brompton & Hans Town,s,s
+E05009390,Kensington and Chelsea,Campden,5.2%,21.4%
+E05009391,Kensington and Chelsea,Chelsea Riverside,11.0%,21.1%
+E05009392,Kensington and Chelsea,Colville,14.3%,21.7%
+E05009393,Kensington and Chelsea,Courtfield,s,s
+E05009394,Kensington and Chelsea,Dalgarno,10.4%,24.8%
+E05009395,Kensington and Chelsea,Earl's Court,6.4%,19.5%
+E05009396,Kensington and Chelsea,Golborne,13.3%,20.5%
+E05009397,Kensington and Chelsea,Holland,13.4%,15.6%
+E05009398,Kensington and Chelsea,Norland,s,18.2%
+E05009399,Kensington and Chelsea,Notting Dale,11.6%,25.7%
+E05009400,Kensington and Chelsea,Pembridge,s,s
+E05009401,Kensington and Chelsea,Queen's Gate,s,s
+E05009402,Kensington and Chelsea,Redcliffe,s,23.9%
+E05009403,Kensington and Chelsea,Royal Hospital,s,33.3%
+E05009404,Kensington and Chelsea,St. Helen's,s,16.9%
+E05009405,Kensington and Chelsea,Stanley,7.7%,18.6%
+E05000400,Kingston upon Thames,Alexandra,7.6%,20.6%
+E05000401,Kingston upon Thames,Berrylands,4.6%,8.6%
+E05000402,Kingston upon Thames,Beverley,6.5%,13.1%
+E05000403,Kingston upon Thames,Canbury,3.8%,12.1%
+E05000404,Kingston upon Thames,Chessington North and Hook,9.8%,23.8%
+E05000405,Kingston upon Thames,Chessington South,8.1%,24.6%
+E05000406,Kingston upon Thames,Coombe Hill,4.9%,21.4%
+E05000407,Kingston upon Thames,Coombe Vale,5.2%,12.7%
+E05000408,Kingston upon Thames,Grove,6.0%,18.9%
+E05000409,Kingston upon Thames,Norbiton,11.3%,19.6%
+E05000410,Kingston upon Thames,Old Malden,6.7%,16.4%
+E05000411,Kingston upon Thames,St James,5.9%,14.8%
+E05000412,Kingston upon Thames,St Mark's,2.9%,8.7%
+E05000413,Kingston upon Thames,Surbiton Hill,4.2%,9.8%
+E05000414,Kingston upon Thames,Tolworth and Hook Rise,4.9%,15.2%
+E05000415,Kingston upon Thames,Tudor,3.3%,11.6%
+E05000416,Lambeth,Bishop's,15.6%,22.2%
+E05000417,Lambeth,Brixton Hill,9.9%,20.2%
+E05000418,Lambeth,Clapham Common,12.7%,20.2%
+E05000419,Lambeth,Clapham Town,12.0%,24.5%
+E05000420,Lambeth,Coldharbour,12.9%,24.3%
+E05000421,Lambeth,Ferndale,15.2%,32.6%
+E05000422,Lambeth,Gipsy Hill,13.3%,27.5%
+E05000423,Lambeth,Herne Hill,9.9%,19.5%
+E05000424,Lambeth,Knight's Hill,9.1%,21.3%
+E05000425,Lambeth,Larkhall,10.8%,28.6%
+E05000426,Lambeth,Oval,9.9%,25.2%
+E05000427,Lambeth,Prince's,10.0%,23.9%
+E05000428,Lambeth,St Leonard's,8.8%,20.9%
+E05000429,Lambeth,Stockwell,15.0%,25.7%
+E05000430,Lambeth,Streatham Hill,13.2%,20.9%
+E05000431,Lambeth,Streatham South,9.5%,23.9%
+E05000432,Lambeth,Streatham Wells,9.6%,20.9%
+E05000433,Lambeth,Thornton,9.7%,26.6%
+E05000434,Lambeth,Thurlow Park,8.9%,18.2%
+E05000435,Lambeth,Tulse Hill,13.6%,27.1%
+E05000436,Lambeth,Vassall,15.4%,27.7%
+E05000437,Lewisham,Bellingham,11.9%,28.2%
+E05000438,Lewisham,Blackheath,9.6%,22.6%
+E05000439,Lewisham,Brockley,9.8%,24.8%
+E05000440,Lewisham,Catford South,10.5%,23.5%
+E05000441,Lewisham,Crofton Park,6.8%,19.6%
+E05000442,Lewisham,Downham,12.2%,26.7%
+E05000443,Lewisham,Evelyn,13.4%,27.0%
+E05000444,Lewisham,Forest Hill,9.0%,22.0%
+E05000445,Lewisham,Grove Park,10.6%,24.2%
+E05000446,Lewisham,Ladywell,7.3%,26.8%
+E05000447,Lewisham,Lee Green,8.6%,18.8%
+E05000448,Lewisham,Lewisham Central,12.0%,25.3%
+E05000449,Lewisham,New Cross,15.6%,27.5%
+E05000450,Lewisham,Perry Vale,9.7%,24.0%
+E05000451,Lewisham,Rushey Green,13.7%,20.1%
+E05000452,Lewisham,Sydenham,10.6%,27.5%
+E05000453,Lewisham,Telegraph Hill,11.3%,23.4%
+E05000454,Lewisham,Whitefoot,12.6%,24.9%
+E05000455,Merton,Abbey,4.1%,14.7%
+E05000456,Merton,Cannon Hill,6.2%,22.0%
+E05000457,Merton,Colliers Wood,10.5%,17.3%
+E05000458,Merton,Cricket Green,11.9%,24.0%
+E05000459,Merton,Dundonald,s,11.9%
+E05000460,Merton,Figge's Marsh,13.5%,27.0%
+E05000461,Merton,Graveney,12.4%,27.2%
+E05000462,Merton,Hillside,5.1%,s
+E05000463,Merton,Lavender Fields,12.7%,25.5%
+E05000464,Merton,Longthornton,14.6%,23.5%
+E05000465,Merton,Lower Morden,9.3%,18.1%
+E05000466,Merton,Merton Park,4.7%,11.5%
+E05000467,Merton,Pollards Hill,10.9%,26.2%
+E05000468,Merton,Ravensbury,12.4%,24.2%
+E05000469,Merton,Raynes Park,2.0%,11.8%
+E05000470,Merton,St Helier,11.9%,21.8%
+E05000471,Merton,Trinity,6.4%,17.1%
+E05000472,Merton,Village,s,s
+E05000473,Merton,West Barnes,5.5%,18.0%
+E05000474,Merton,Wimbledon Park,4.2%,13.3%
+E05000475,Newham,Beckton,13.0%,21.4%
+E05000476,Newham,Boleyn,13.0%,29.1%
+E05000477,Newham,Canning Town North,15.0%,29.5%
+E05000478,Newham,Canning Town South,14.3%,27.8%
+E05000479,Newham,Custom House,12.2%,26.5%
+E05000480,Newham,East Ham Central,13.4%,26.1%
+E05000481,Newham,East Ham North,10.7%,24.9%
+E05000482,Newham,East Ham South,10.4%,26.5%
+E05000483,Newham,Forest Gate North,16.2%,24.3%
+E05000484,Newham,Forest Gate South,10.7%,27.7%
+E05000485,Newham,Green Street East,9.5%,25.8%
+E05000486,Newham,Green Street West,12.6%,20.8%
+E05000487,Newham,Little Ilford,12.8%,26.5%
+E05000488,Newham,Manor Park,10.9%,26.1%
+E05000489,Newham,Plaistow North,13.0%,23.7%
+E05000490,Newham,Plaistow South,14.7%,27.6%
+E05000491,Newham,Royal Docks,12.4%,31.4%
+E05000492,Newham,Stratford and New Town,11.3%,23.0%
+E05000493,Newham,Wall End,10.2%,24.3%
+E05000494,Newham,West Ham,14.5%,27.2%
+E05000495,Redbridge,Aldborough,11.5%,21.4%
+E05000496,Redbridge,Barkingside,7.6%,21.5%
+E05000497,Redbridge,Bridge,9.6%,17.9%
+E05000498,Redbridge,Chadwell,13.6%,27.4%
+E05000499,Redbridge,Church End,7.9%,15.6%
+E05000500,Redbridge,Clayhall,6.9%,23.1%
+E05000501,Redbridge,Clementswood,10.9%,20.9%
+E05000502,Redbridge,Cranbrook,12.2%,18.7%
+E05000503,Redbridge,Fairlop,11.3%,26.5%
+E05000504,Redbridge,Fullwell,9.8%,26.3%
+E05000505,Redbridge,Goodmayes,13.0%,22.5%
+E05000506,Redbridge,Hainault,9.7%,26.2%
+E05000507,Redbridge,Loxford,11.8%,25.7%
+E05000508,Redbridge,Mayfield,12.6%,23.1%
+E05000509,Redbridge,Monkhams,7.5%,12.3%
+E05000510,Redbridge,Newbury,14.9%,22.4%
+E05000511,Redbridge,Roding,8.9%,21.3%
+E05000512,Redbridge,Seven Kings,8.9%,26.1%
+E05000513,Redbridge,Snaresbrook,5.6%,13.8%
+E05000514,Redbridge,Valentines,9.7%,24.6%
+E05000515,Redbridge,Wanstead,9.5%,18.6%
+E05000516,Richmond upon Thames,Barnes,4.8%,14.7%
+E05000517,Richmond upon Thames,East Sheen,5.0%,7.6%
+E05000518,Richmond upon Thames,Fulwell and Hampton Hill,5.6%,9.0%
+E05000519,Richmond upon Thames,"Ham, Petersham and Richmond Riverside",5.0%,13.2%
+E05000520,Richmond upon Thames,Hampton,5.3%,14.6%
+E05000521,Richmond upon Thames,Hampton North,7.8%,19.7%
+E05000522,Richmond upon Thames,Hampton Wick,6.4%,10.1%
+E05000523,Richmond upon Thames,Heathfield,9.6%,18.9%
+E05000524,Richmond upon Thames,Kew,3.5%,12.6%
+E05000525,Richmond upon Thames,Mortlake and Barnes Common,5.3%,11.3%
+E05000526,Richmond upon Thames,North Richmond,4.7%,11.2%
+E05000527,Richmond upon Thames,St Margarets and North Twickenham,4.0%,8.9%
+E05000528,Richmond upon Thames,South Richmond,4.7%,9.9%
+E05000529,Richmond upon Thames,South Twickenham,5.8%,8.7%
+E05000530,Richmond upon Thames,Teddington,7.4%,5.9%
+E05000531,Richmond upon Thames,Twickenham Riverside,3.2%,7.6%
+E05000532,Richmond upon Thames,West Twickenham,5.3%,10.8%
+E05000533,Richmond upon Thames,Whitton,9.3%,14.5%
+E05000534,Southwark,Brunswick Park,11.9%,27.4%
+E05000535,Southwark,Camberwell Green,16.3%,31.7%
+E05000536,Southwark,Cathedrals,11.4%,22.8%
+E05000537,Southwark,Chaucer,12.8%,23.3%
+E05000538,Southwark,College,14.1%,24.7%
+E05000539,Southwark,East Dulwich,5.9%,19.3%
+E05000540,Southwark,East Walworth,16.4%,35.0%
+E05000541,Southwark,Faraday,19.0%,30.2%
+E05000542,Southwark,Grange,14.3%,27.1%
+E05000543,Southwark,Livesey,15.0%,31.6%
+E05000544,Southwark,Newington,13.7%,26.6%
+E05000545,Southwark,Nunhead,14.5%,24.8%
+E05000546,Southwark,Peckham,15.9%,30.1%
+E05000547,Southwark,Peckham Rye,9.2%,19.7%
+E05000548,Southwark,Riverside,9.8%,24.1%
+E05000549,Southwark,Rotherhithe,10.3%,31.6%
+E05000550,Southwark,South Bermondsey,11.2%,29.6%
+E05000551,Southwark,South Camberwell,10.2%,23.9%
+E05000552,Southwark,Surrey Docks,8.5%,23.2%
+E05000553,Southwark,The Lane,13.2%,29.2%
+E05000554,Southwark,Village,6.6%,12.0%
+E05000555,Sutton,Beddington North,6.3%,20.4%
+E05000556,Sutton,Beddington South,8.6%,21.8%
+E05000557,Sutton,Belmont,7.9%,17.2%
+E05000558,Sutton,Carshalton Central,6.4%,13.1%
+E05000559,Sutton,Carshalton South and Clockhouse,5.9%,14.6%
+E05000560,Sutton,Cheam,7.1%,12.5%
+E05000561,Sutton,Nonsuch,4.6%,10.7%
+E05000562,Sutton,St Helier,11.5%,26.5%
+E05000563,Sutton,Stonecot,8.5%,20.3%
+E05000564,Sutton,Sutton Central,9.1%,20.6%
+E05000565,Sutton,Sutton North,9.5%,20.2%
+E05000566,Sutton,Sutton South,8.2%,18.2%
+E05000567,Sutton,Sutton West,8.3%,17.2%
+E05000568,Sutton,The Wrythe,8.0%,24.0%
+E05000569,Sutton,Wallington North,7.2%,15.7%
+E05000570,Sutton,Wallington South,8.3%,24.5%
+E05000571,Sutton,Wandle Valley,10.0%,22.8%
+E05000572,Sutton,Worcester Park,8.0%,18.2%
+E05009317,Tower Hamlets,Bethnal Green,13.8%,23.9%
+E05009318,Tower Hamlets,Blackwall & Cubitt Town,10.6%,25.3%
+E05009319,Tower Hamlets,Bow East,14.3%,24.8%
+E05009320,Tower Hamlets,Bow West,10.6%,22.8%
+E05009321,Tower Hamlets,Bromley North,12.0%,31.1%
+E05009322,Tower Hamlets,Bromley South,12.7%,21.8%
+E05009323,Tower Hamlets,Canary Wharf,9.7%,25.5%
+E05009324,Tower Hamlets,Island Gardens,8.1%,26.5%
+E05009325,Tower Hamlets,Lansbury,12.8%,24.5%
+E05009326,Tower Hamlets,Limehouse,11.9%,27.5%
+E05009327,Tower Hamlets,Mile End,11.7%,29.6%
+E05009328,Tower Hamlets,Poplar,14.3%,25.6%
+E05009329,Tower Hamlets,St Dunstan's,11.8%,25.6%
+E05009330,Tower Hamlets,St Katharine's & Wapping,9.4%,18.4%
+E05009331,Tower Hamlets,St Peter's,15.6%,25.9%
+E05009332,Tower Hamlets,Shadwell,16.0%,26.9%
+E05009333,Tower Hamlets,Spitalfields & Banglatown,14.2%,24.8%
+E05009334,Tower Hamlets,Stepney Green,13.0%,26.6%
+E05009335,Tower Hamlets,Weavers,14.7%,27.1%
+E05009336,Tower Hamlets,Whitechapel,13.6%,25.2%
+E05000590,Waltham Forest,Cann Hall,10.8%,24.0%
+E05000591,Waltham Forest,Cathall,11.9%,25.1%
+E05000592,Waltham Forest,Chapel End,10.1%,22.7%
+E05000593,Waltham Forest,Chingford Green,8.4%,17.8%
+E05000594,Waltham Forest,Endlebury,8.9%,19.7%
+E05000595,Waltham Forest,Forest,9.4%,22.8%
+E05000596,Waltham Forest,Grove Green,10.8%,30.8%
+E05000597,Waltham Forest,Hale End and Highams Park,6.9%,19.8%
+E05000598,Waltham Forest,Hatch Lane,8.1%,18.1%
+E05000599,Waltham Forest,High Street,10.0%,24.4%
+E05000600,Waltham Forest,Higham Hill,10.3%,26.8%
+E05000601,Waltham Forest,Hoe Street,10.7%,25.7%
+E05000602,Waltham Forest,Larkswood,11.2%,20.4%
+E05000603,Waltham Forest,Lea Bridge,11.4%,23.6%
+E05000604,Waltham Forest,Leyton,13.4%,22.6%
+E05000605,Waltham Forest,Leytonstone,9.9%,17.8%
+E05000606,Waltham Forest,Markhouse,10.7%,25.0%
+E05000607,Waltham Forest,Valley,11.5%,24.2%
+E05000608,Waltham Forest,William Morris,11.5%,23.4%
+E05000609,Waltham Forest,Wood Street,12.0%,24.4%
+E05000610,Wandsworth,Balham,5.5%,15.6%
+E05000611,Wandsworth,Bedford,8.2%,16.0%
+E05000612,Wandsworth,Earlsfield,9.8%,21.5%
+E05000613,Wandsworth,East Putney,7.0%,15.3%
+E05000614,Wandsworth,Fairfield,7.5%,21.2%
+E05000615,Wandsworth,Furzedown,10.1%,19.0%
+E05000616,Wandsworth,Graveney,10.9%,21.8%
+E05000617,Wandsworth,Latchmere,13.7%,26.7%
+E05000618,Wandsworth,Nightingale,4.1%,19.1%
+E05000619,Wandsworth,Northcote,3.4%,8.4%
+E05000620,Wandsworth,Queenstown,11.1%,26.0%
+E05000621,Wandsworth,Roehampton and Putney Heath,11.8%,21.7%
+E05000622,Wandsworth,St Mary's Park,12.7%,24.2%
+E05000623,Wandsworth,Shaftesbury,7.8%,24.1%
+E05000624,Wandsworth,Southfields,6.6%,16.5%
+E05000625,Wandsworth,Thamesfield,4.6%,13.6%
+E05000626,Wandsworth,Tooting,10.6%,20.3%
+E05000627,Wandsworth,Wandsworth Common,8.6%,17.2%
+E05000628,Wandsworth,West Hill,9.6%,20.8%
+E05000629,Wandsworth,West Putney,12.4%,20.7%
+E05000630,Westminster,Abbey Road,8.5%,23.2%
+E05000631,Westminster,Bayswater,9.5%,22.0%
+E05000632,Westminster,Bryanston and Dorset Square,12.2%,34.0%
+E05000633,Westminster,Churchill,14.6%,26.9%
+E05000634,Westminster,Church Street,13.8%,26.2%
+E05000635,Westminster,Harrow Road,10.9%,29.4%
+E05000636,Westminster,Hyde Park,11.6%,21.4%
+E05000637,Westminster,Knightsbridge and Belgravia,s,s
+E05000638,Westminster,Lancaster Gate,6.0%,22.8%
+E05000639,Westminster,Little Venice,9.1%,21.3%
+E05000640,Westminster,Maida Vale,8.5%,25.2%
+E05000641,Westminster,Marylebone High Street,10.0%,s
+E05000642,Westminster,Queen's Park,11.0%,29.2%
+E05000643,Westminster,Regent's Park,7.5%,20.8%
+E05000644,Westminster,St James's,12.6%,26.1%
+E05000645,Westminster,Tachbrook,13.1%,32.0%
+E05000646,Westminster,Vincent Square,10.0%,24.8%
+E05000647,Westminster,Warwick,13.5%,25.2%
+E05000648,Westminster,Westbourne,11.7%,26.6%
+E05000649,Westminster,West End,s,23.9%
